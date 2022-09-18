@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-NLW Cloud é a junção dos projetos NLW eSports e NLW Flix em um só, desenvolvido durante a **[Next Level Week eSports](https://nextlevelweek.com/)**.
+NLW Cloud é a junção dos projetos NLW eSports e NLW Flix em um só, desenvolvidos durante a **[Next Level Week eSports](https://nextlevelweek.com/)**.
 
 Você pode visualizar o projeto em funcionamento através do link abaixo:
 
