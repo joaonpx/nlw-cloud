@@ -160,7 +160,7 @@ section .card-container {
   }
 
   .content-container .cards {
-    margin-inline: 2rem;
+    margin-inline: 1.5rem;
   }
 
   .main-container .social:last-child {
