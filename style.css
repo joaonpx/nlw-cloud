@@ -166,10 +166,6 @@ section .card-container {
   .main-container .social:last-child {
     align-items: center;
   }
-
-  /* .cards {
-    width: min(45vw, 26.7rem);
-  } */
 }
 
 /* ============================== animações ================================== */
