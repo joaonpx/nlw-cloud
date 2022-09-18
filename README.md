@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="NLW Cloud" src="./assets/preview.png" width="100%">
+  <img alt="NLW Cloud" src="./assets/nlwcloud-preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
