@@ -151,12 +151,19 @@ section .card-container {
 @media (min-width: 1024px) {
   .main-container {
     display: flex;
-    align-items: flex-start;
-
-    flex-direction: row;
   }
 
-  .main-container .cards:last-child {
+  .content-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .content-container .cards {
+    margin-inline: 2rem;
+  }
+
+  .main-container .social:last-child {
     align-items: center;
   }
 
